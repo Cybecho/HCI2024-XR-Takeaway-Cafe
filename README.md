@@ -7,6 +7,8 @@
 
 [수상 페이지](https://conference.hcikorea.org/hcik2024/creative/awarded_CA.asp)
 
+[DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714831)
+
 [원본 논문 읽기](https://github.com/Cybecho/HCI2024-XR-Takeaway-Cafe/blob/main/HCI2024_XR%ED%85%8C%EC%9D%B4%ED%81%AC%EC%95%84%EC%9B%83%EC%B9%B4%ED%8E%98.pdf)
 
 Dept. of Media Technology and Media Contents, The Catholic University of Korea
