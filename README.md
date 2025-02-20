@@ -4,6 +4,7 @@
 
 [![adsf](https://github.com/Cybecho/KCGS2023-Establishing-an-XR-Studio-with-Anti-Glare-Monitors-Case-Studie/assets/42949995/fb6877dd-3afe-4446-92f2-4c860a58220c)](https://youtu.be/6iUguU-ZDzA?si=pq0x3g5wPK6ZOemR) 
 
+[프로젝트 페이지](https://cg.catholic.ac.kr/~mgchoi/publications/XRCafe/)
 
 [수상 페이지](https://conference.hcikorea.org/hcik2024/creative/awarded_CA.asp)
 
